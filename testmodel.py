@@ -7,6 +7,9 @@ with open("problems.jsonl", encoding="utf-8") as input_file, open(
     "answers.jsonl", "w", encoding="utf-8"
 ) as output_file:
     for line in input_file:
+        if not line.strip():
+            continue
+
         problem = json.loads(line)
 
         response = chat(
@@ -17,7 +20,7 @@ with open("problems.jsonl", encoding="utf-8") as input_file, open(
         )
 
         answer = {
-            "no": problem["no"],
+            "id": str(problem["id"]),
             "prompt": problem["prompt"],
             "response": response.message.content,
         }
