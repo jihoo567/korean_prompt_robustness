@@ -35,9 +35,10 @@ with open("answers.jsonal", "w", encoding="utf-8") as output_file, open(
                 logprobs=True,
                 options={"temperature": 0, "seed": 12, "num_predict": 16},
             )
-            scores[label] = next(
-                token.logprob for token in response.logprobs if token.token == label
-            )
+            if not response.logprobs:
+                raise RuntimeError("로그 확률이 반환되지 않았습니다. Ollama를 최신 버전으로 업데이트하세요.")
+            # 토큰 분할에 관계없이 JSON 답변 전체의 로그 확률을 합산.
+            scores[label] = sum(token.logprob for token in response.logprobs)
 
         # A, B, C, D 안에서의 상대 확률 (합계 1).
         weights = {label: math.exp(score - max(scores.values())) for label, score in scores.items()}
