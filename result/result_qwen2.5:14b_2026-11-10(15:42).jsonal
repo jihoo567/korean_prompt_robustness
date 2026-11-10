@@ -1,0 +1,21 @@
+{"id": "MCAS_2006_9_44", "question": "우주비행사가 달에서 1.0kg의 물체와 5.0kg의 물체를 떨어뜨립니다. 두 물체 모두 수직으로 총 2.0m를 낙하합니다. 다음 중 1.0m 거리를 낙하했을 때의 물체 상태를 가장 잘 묘사한 것은 무엇인가요?", "model_answer": "C", "correct_answer": "D", "is_correct": false}
+{"id": "MCAS_2006_9_44_합쇼체", "question": "우주비행사가 달에서 1.0kg의 물체와 5.0kg의 물체를 떨어뜨립니다. 두 물체 모두 수직으로 총 2.0m를 낙하합니다. 다음 중 1.0m 거리를 낙하했을 때의 물체 상태를 가장 잘 묘사한 것은 무엇입니까?", "model_answer": "C", "correct_answer": "D", "is_correct": false}
+{"id": "MCAS_2006_9_44_하오체", "question": "우주비행사가 달에서 1.0kg의 물체와 5.0kg의 물체를 떨어뜨리오. 두 물체 모두 수직으로 총 2.0m를 낙하하오. 다음 중 1.0m 거리를 낙하했을 때의 물체 상태를 가장 잘 묘사한 것은 무엇이오?", "model_answer": "C", "correct_answer": "D", "is_correct": false}
+{"id": "MCAS_2006_9_44_하게체", "question": "우주비행사가 달에서 1.0kg의 물체와 5.0kg의 물체를 떨어뜨리네. 두 물체 모두 수직으로 총 2.0m를 낙하하네. 다음 중 1.0m 거리를 낙하했을 때의 물체 상태를 가장 잘 묘사한 것은 무엇인가?", "model_answer": "C", "correct_answer": "D", "is_correct": false}
+{"id": "MCAS_2006_9_44_해라체", "question": "우주비행사가 달에서 1.0kg의 물체와 5.0kg의 물체를 떨어뜨린다. 두 물체 모두 수직으로 총 2.0m를 낙하한다. 다음 중 1.0m 거리를 낙하했을 때의 물체 상태를 가장 잘 묘사한 것은 무엇인가?", "model_answer": "C", "correct_answer": "D", "is_correct": false}
+{"id": "MCAS_2006_9_44_해요체", "question": "우주비행사가 달에서 1.0kg의 물체와 5.0kg의 물체를 떨어뜨려요. 두 물체 모두 수직으로 총 2.0m를 낙하해요. 다음 중 1.0m 거리를 낙하했을 때의 물체 상태를 가장 잘 묘사한 것은 무엇인가요?", "model_answer": "C", "correct_answer": "D", "is_correct": false}
+{"id": "MCAS_2006_9_44_해체", "question": "우주비행사가 달에서 1.0kg의 물체와 5.0kg의 물체를 떨어뜨려. 두 물체 모두 수직으로 총 2.0m를 낙하해. 다음 중 1.0m 거리를 낙하했을 때의 물체 상태를 가장 잘 묘사한 것은 뭐야?", "model_answer": "C", "correct_answer": "D", "is_correct": false}
+{"id": "NYSEDREGENTS_2015_4_26", "question": "봄과 초여름에 곰은 종종 겨울 털을 제거하기 위해 나무에 등을 긁습니다. 이것은 동물의 어떤 행동일까요?", "model_answer": "C", "correct_answer": "C", "is_correct": true}
+{"id": "NYSEDREGENTS_2015_4_26_합쇼체", "question": "봄과 초여름에 곰은 종종 겨울 털을 제거하기 위해 나무에 등을 긁습니다. 이것은 동물의 어떤 행동입니까?", "model_answer": "C", "correct_answer": "C", "is_correct": true}
+{"id": "NYSEDREGENTS_2015_4_26_하오체", "question": "봄과 초여름에 곰은 종종 겨울 털을 제거하기 위해 나무에 등을 긁소. 이것은 동물의 어떤 행동이오?", "model_answer": "C", "correct_answer": "C", "is_correct": true}
+{"id": "NYSEDREGENTS_2015_4_26_하게체", "question": "봄과 초여름에 곰은 종종 겨울 털을 제거하기 위해 나무에 등을 긁네. 이것은 동물의 어떤 행동인가?", "model_answer": "C", "correct_answer": "C", "is_correct": true}
+{"id": "NYSEDREGENTS_2015_4_26_해라체", "question": "봄과 초여름에 곰은 종종 겨울 털을 제거하기 위해 나무에 등을 긁는다. 이것은 동물의 어떤 행동인가?", "model_answer": "C", "correct_answer": "C", "is_correct": true}
+{"id": "NYSEDREGENTS_2015_4_26_해요체", "question": "봄과 초여름에 곰은 종종 겨울 털을 제거하기 위해 나무에 등을 긁어요. 이것은 동물의 어떤 행동인가요?", "model_answer": "C", "correct_answer": "C", "is_correct": true}
+{"id": "NYSEDREGENTS_2015_4_26_해체", "question": "봄과 초여름에 곰은 종종 겨울 털을 제거하기 위해 나무에 등을 긁어. 이것은 동물의 어떤 행동이야?", "model_answer": "C", "correct_answer": "C", "is_correct": true}
+{"id": "NYSEDREGENTS_2008_8_34", "question": "다음 중 어린이가 썰매를 타고 가파른 눈 덮인 언덕을 내려가는 동안 발생하는 에너지 변화를 가장 잘 설명하는 것은 무엇인가요?", "model_answer": "B", "correct_answer": "B", "is_correct": true}
+{"id": "NYSEDREGENTS_2008_8_34_합쇼체", "question": "다음 중 어린이가 썰매를 타고 가파른 눈 덮인 언덕을 내려가는 동안 발생하는 에너지 변화를 가장 잘 설명하는 것은 무엇입니까?", "model_answer": "B", "correct_answer": "B", "is_correct": true}
+{"id": "NYSEDREGENTS_2008_8_34_하오체", "question": "다음 중 어린이가 썰매를 타고 가파른 눈 덮인 언덕을 내려가는 동안 발생하는 에너지 변화를 가장 잘 설명하는 것은 무엇이오?", "model_answer": "B", "correct_answer": "B", "is_correct": true}
+{"id": "NYSEDREGENTS_2008_8_34_하게체", "question": "다음 중 어린이가 썰매를 타고 가파른 눈 덮인 언덕을 내려가는 동안 발생하는 에너지 변화를 가장 잘 설명하는 것은 무엇인가?", "model_answer": "B", "correct_answer": "B", "is_correct": true}
+{"id": "NYSEDREGENTS_2008_8_34_해라체", "question": "다음 중 어린이가 썰매를 타고 가파른 눈 덮인 언덕을 내려가는 동안 발생하는 에너지 변화를 가장 잘 설명하는 것은 무엇인가?", "model_answer": "B", "correct_answer": "B", "is_correct": true}
+{"id": "NYSEDREGENTS_2008_8_34_해요체", "question": "다음 중 어린이가 썰매를 타고 가파른 눈 덮인 언덕을 내려가는 동안 발생하는 에너지 변화를 가장 잘 설명하는 것은 무엇인가요?", "model_answer": "B", "correct_answer": "B", "is_correct": true}
+{"id": "NYSEDREGENTS_2008_8_34_해체", "question": "다음 중 어린이가 썰매를 타고 가파른 눈 덮인 언덕을 내려가는 동안 발생하는 에너지 변화를 가장 잘 설명하는 것은 뭐야?", "model_answer": "B", "correct_answer": "B", "is_correct": true}

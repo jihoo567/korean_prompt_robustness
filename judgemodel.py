@@ -17,7 +17,7 @@ class Judgment(BaseModel):
     score: Literal[1, 2, 3, 4, 5]
 
 
-with open("tmanswers.jsonl", encoding="utf-8") as input_file, open(
+with open("answers.jsonal", encoding="utf-8") as input_file, open(
     "gmanswers.jsonl", "w", encoding="utf-8"
 ) as output_file:
     for line in input_file:
@@ -42,8 +42,8 @@ with open("tmanswers.jsonl", encoding="utf-8") as input_file, open(
                 {
                     "role": "user",
                     "content": (
-                        f"문제: {test_answer['prompt']}\n"
-                        f"답변: {test_answer['response']}"
+                        f"문제: {test_answer['question']}\n"
+                        f"답변: {test_answer['model_answer']}"
                     ),
                 },
             ],
