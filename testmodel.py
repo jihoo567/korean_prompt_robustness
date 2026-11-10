@@ -12,8 +12,8 @@ with open("problems.json", encoding="utf-8") as input_file:
     problems = json.load(input_file)
 
 Path("result").mkdir(exist_ok=True)
-model_name = model.replace(":", "_").replace("/", "_")
-result_path = Path("result") / f"result_{model_name}_{datetime.now():%Y-%m-%d(%H:%M)}.jsonal"
+model_name = model.replace(":", "-").replace("/", "_")
+result_path = Path("result") / f"result_{model_name}_{datetime.now():%Y-%m-%d(%H-%M)}.jsonal"
 
 with open("answers.jsonal", "w", encoding="utf-8") as output_file, open(
     result_path, "w", encoding="utf-8"
